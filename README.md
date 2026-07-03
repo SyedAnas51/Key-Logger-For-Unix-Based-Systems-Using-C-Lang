@@ -5,7 +5,6 @@ This project is a **Linux-based keylogger written in C**, developed as part of a
 
 The program reads raw keyboard events from the Linux input subsystem and logs them into a file.
 
-> ⚠️ This project is strictly for **educational and research purposes only**.
 
 ---
 
